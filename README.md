@@ -33,4 +33,4 @@ services:
 
 # 使用方法
 
-将审计调试源码放在src文件夹，然后运行docker-compose up -d 就可以启动了。
+创建一个文件夹“src”,将审计调试源码放在src文件夹，然后运行docker-compose up -d 就可以启动了。
